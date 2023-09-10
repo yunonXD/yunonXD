@@ -1,16 +1,15 @@
-### Hi there 👋
 
-<!--
-**yunonXD/yunonXD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center"> 📚 Tech Stack 📚</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c++&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/Unity-FFFFFF?style=flat-square&logo=Unity&logoColor=black"/></a>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/VC-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/></a>
+  
+  <br>
 
-Here are some ideas to get you started:
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
